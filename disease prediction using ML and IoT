@@ -1,0 +1,4 @@
+in this project i take the sensor - MAX30102 sensor from this sensor i collect the data and create dataset that is health.csv 
+and send the data to thingspek cloud for input 
+i take the iot board ARDUINO UNO as a broker with the help of this send the data to thingspeak
+take the input as thease data details from cloud and predict the desease
