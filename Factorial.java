@@ -1,4 +1,4 @@
-
+// import scanner method from util
 import java.util.*;
 class Factorial { 			
 
